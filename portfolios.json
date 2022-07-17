@@ -1,91 +1,91 @@
 [
   {
     "title": "KlikAnter (Web)",
-    "description": "Klikanter is a platform that is used to make it easier to order food, etc. via the internet, such as Gojek which uses drivers as food delivery",
+    "description": "Klikanter is a platform that is used to make it easier to order food, etc. via the internet, such as Gojek which uses drivers as food delivery. <br />Stack: Typescript, VueJS, ExpressJS, MongoDB, Nginx",
     "imageOne": "https://i.ibb.co/ZWgWdwv/Screen-Shot-2021-08-28-at-16-57-54.png",
     "imageTwo": "https://i.ibb.co/5x3rbyx/Screen-Shot-2021-08-28-at-16-58-12.png",
     "imageThree": "https://i.ibb.co/DfngC33/Screen-Shot-2021-08-28-at-16-58-53.png"
   },
   {
     "title": "Covid 19 (Web)",
-    "description": "Covid 19 (corona virus) tracker",
+    "description": "Covid 19 (corona virus) tracker. <br />Stack: Javascipt, VueJS, Vuetify, Nginx",
     "imageOne": "https://i.ibb.co/vmLPJVg/web-covid19-ss1.png",
     "imageTwo": "https://i.ibb.co/g7DqtR3/web-covid19-ss2.pngg",
     "imageThree": "https://i.ibb.co/MCHjSHN/web-covid19-ss3.png"
   },
   {
     "title": "My Private Blog (Web)",
-    "description": "My private blog",
+    "description": "My private blog. <br />Stack: PHP, Laravel, Bootstrap, MySQL, Nginx",
     "imageOne": "https://i.ibb.co/vDymgqw/web-blogpribadi-ss1.png",
     "imageTwo": "https://i.ibb.co/n1mbzDh/web-blogpribadi-ss2.png",
     "imageThree": "https://i.ibb.co/4pHvH7v/web-blogpribadi-ss3.png"
   },
   {
     "title": "API Placeholder (Web)",
-    "description": "Example of api placeholder to use for testing only, check here: https://github.com/erthru/placeholder",
+    "description": "Example of api placeholder to use for testing only, check here: https://github.com/erthru/placeholder. <br />Stack: Javascript, ExpressJS, MySQL, Nginx",
     "imageOne": "https://i.ibb.co/4WRZMLg/web-placeholder-ss2.png",
     "imageTwo": "https://i.ibb.co/4WRZMLg/web-placeholder-ss2.png",
     "imageThree": "https://i.ibb.co/4WRZMLg/web-placeholder-ss2.png"
   },
   {
     "title": "Pendonor Gorontalo (Web)",
-    "description": "This is a thesis project for my collage friend. This is an admin web application for creating user (the donors), creating daily article and etc",
-    "imageOne": "https://i.ibb.co/4WRZMLg/web-placeholder-ss2.png",
-    "imageTwo": "https://i.ibb.co/4WRZMLg/web-placeholder-ss2.png",
-    "imageThree": "https://i.ibb.co/4WRZMLg/web-placeholder-ss2.png"
+    "description": "This is a thesis project for my collage friend. This is an admin web application for creating user (the donors), creating daily article and etc. <br />Stack: Javascript, VueJS, Bootstrap, PHP, Laravel, MySQL, CPanel",
+    "imageOne": "https://i.ibb.co/pxpyyPL/web-pendonorgorontalo-ss1.jpg",
+    "imageTwo": "https://i.ibb.co/xqRs45f/web-pendonorgorontalo-ss2.jpg",
+    "imageThree": "https://i.ibb.co/6J5wnsG/web-pendonorgorontalo-ss3.jpg"
   },
   {
     "title": "Blod Id (Android)",
-    "description": "Blod id is a startup that engaged in the health sector. Help to connect patien who need blood donor with the donors. The main feature is blod daily, see a list of patient who need blood donor, create blood request, and chat between patient and donors",
+    "description": "Blod id is a startup that engaged in the health sector. Help to connect patien who need blood donor with the donors. The main feature is blod daily, see a list of patient who need blood donor, create blood request, and chat between patient and donors. <br />Stack: Kotlin, Android Studio, Google Cloud Messaging",
     "imageOne": "https://i.ibb.co/4MNwT2w/android-blodid-ss1.png",
     "imageTwo": "https://i.ibb.co/Mnm6yHS/android-blodid-ss2.png",
     "imageThree": "https://i.ibb.co/NLKLKjc/android-blodid-ss3.png"
   },
   {
     "title": "Baberbol (Android)",
-    "description": "Baberbol is an application for you can find interesting, unique, and important things about footbal. The main feature is read news about football (Premier League, LA LIGA, etc), top articles, and save top article",
+    "description": "Baberbol is an application for you can find interesting, unique, and important things about footbal. The main feature is read news about football (Premier League, LA LIGA, etc), top articles, and save top article. <br />Stack: Kotlin, Android Studio, Firebase Cloud Messaging",
     "imageOne": "https://i.ibb.co/k20MRBp/android-baberbol-ss1.jpg",
     "imageTwo": "https://i.ibb.co/6J1wy2z/android-baberbol-ss2.jpg",
     "imageThree": "https://i.ibb.co/7btXqmW/android-baberbol-ss3.jpg"
   },
   {
     "title": "Sliding Tab (IOS Library)",
-    "description": "By default swift not provide sliding tab in UIKit, so i'm created this library to help me (and others maybe) for building this stuff",
+    "description": "By default swift not provide sliding tab in UIKit, so I created this library to help me (and others maybe) for building this stuff. <br />Stack: Swift, XCode",
     "imageOne": "https://i.ibb.co/CmtCtQF/ioslibrary-slidingtab-ss1.jpg",
     "imageTwo": "https://i.ibb.co/cvnTRp0/ioslibrary-slidingtab-ss2.jpg",
     "imageThree": "https://i.ibb.co/MBD60LP/ioslibrary-slidingtab-ss3.jpg"
   },
   {
     "title": "Pendonor Gorontalo (Android)",
-    "description": "This is a thesis project for my collage friend. Pendonor gorontalo is an application to help patient who looking for donors. The patient can see the address of the donors through GIS (Geographic Information System). The main feature is see patient address through gis, message and call patient, and daily articles",
+    "description": "This is a thesis project for my collage friend. Pendonor gorontalo is an application to help patient who looking for donors. The patient can see the address of the donors through GIS (Geographic Information System). The main feature is see patient address through gis, message and call patient, and daily articles. <br />Stack: Kotlin, Android Studio",
     "imageOne": "https://i.ibb.co/TgZnQFR/android-pendonorgorontalo-ss1.png",
     "imageTwo": "https://i.ibb.co/xfv9jhF/android-pendonorgorontalo-ss2.png",
     "imageThree": "https://i.ibb.co/xXMsqRK/android-pendonorgorontalo-ss3.png"
   },
   {
     "title": "PT Hajrat Abadi SVC Mobil (Android)",
-    "description": "This is a thesis project for my collage friend. This application help users for booking service",
+    "description": "This is a thesis project for my collage friend. This application help users for booking service. <br />Stack: Kotlin, Android Studio, Google Cloud Messaging",
     "imageOne": "https://i.ibb.co/G097zPN/android-pthajratsvcmobil-ss1.png",
     "imageTwo": "https://i.ibb.co/bPdVwQ9/android-pthajratsvcmobil-ss2.png",
     "imageThree": "https://i.ibb.co/8xnDJcX/android-pthajratsvcmobil-ss3.png"
   },
   {
     "title": "PT Hajrat Abadi SVC Mobile (Desktop)",
-    "description": "This is a thesis project for my collage friend. This application is the admin panel of android version",
+    "description": "This is a thesis project for my collage friend. This application is the admin panel of android version. <br />Stack: Java, JavaFX, PHP, MySQL",
     "imageOne": "https://i.ibb.co/Mns9CGC/desktop-pthajratsvcmobil-ss1.jpg",
     "imageTwo": "https://i.ibb.co/QYXyzb6/desktop-pthajratsvcmobil-ss2.jpg",
     "imageThree": "https://i.ibb.co/Zm5jgcD/desktop-pthajratsvcmobil-ss3.jpg"
   },
   {
     "title": "My Gorontalo (Android)",
-    "description": "This is my first project to be made till the production stage, i'm made this application in october 2017. The main feature is to find the nearest tourist attraction and restaurant using GIS (Geographic Information System)",
+    "description": "This is my first project to be made till the production stage, I made this application in october 2017. The main feature is to find the nearest tourist attraction and restaurant using GIS (Geographic Information System). <br />Stack: Java, Android Studio, PHP, MySQL",
     "imageOne": "https://i.ibb.co/Pg4ZmCz/android-mygorontalo-ss1.png",
     "imageTwo": "https://i.ibb.co/4Vk7Nn4/android-mygorontalo-ss2.png",
     "imageThree": "https://i.ibb.co/wyDbmWk/android-mygorontalo-ss3.png"
   },
   {
     "title": "Wisata Makassar (Android)",
-    "description": "This is my second project to be made till the production stage, i'm made this application in december 2017. The main feature is to find the nearest tourist attraction using GIS (Geographic Information System)",
+    "description": "This is my second project to be made till the production stage, I made this application in december 2017. The main feature is to find the nearest tourist attraction using GIS (Geographic Information System). <br />Stack: Java, Android Studio, PHP, MySQL",
     "imageOne": "https://i.ibb.co/9TyDfsh/android-wisatamakassar-ss1.png",
     "imageTwo": "https://i.ibb.co/Tt1zsWT/android-wisatamakassar-ss2.png",
     "imageThree": "https://i.ibb.co/Bwpqvmq/android-wisatamakassar-ss3.png"
